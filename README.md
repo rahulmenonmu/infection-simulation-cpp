@@ -27,4 +27,8 @@ Most of the characters will roam around the environment using a random walk. At 
 
 - Movement Parameter (MP): dictates probability of movement for random walk.
 
-IR, RR and MR represent probabilities and are between 0 and 1. MP is slightly different and will be explained in Section 3. The simulation will, for the most part, run until there are no longer any more infected. The number of remaining healthy, infected, recovered and deceased needs to be
+IR, RR and MR represent probabilities and are between 0 and 1. MP is slightly different and will be explained in Section 3. The simulation will, for the most part, run until there are no longer any more infected. The number of remaining healthy, infected, recovered and deceased needs to be maintained. For most of the simulations that are required to be run, the required outcome from the simulation will be the number of deceased characters/fatalities.
+
+
+
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
